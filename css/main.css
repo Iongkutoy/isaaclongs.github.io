@@ -1,0 +1,68 @@
+body {
+    margin: 2%;
+}
+
+.navbar {
+    display: inline-flex;
+    color: black;
+}
+
+.navbar * {
+    text-decoration: none;
+    color: black;
+}
+
+.site-icon {
+    margin: 0;
+}
+
+.list-header {
+    font-weight: bold;
+}
+
+.list-links {
+    padding-left: 30px;
+    margin: 10px;
+}
+
+.list-links>li>a {
+    text-decoration: none;
+}
+
+.list-item-post-entry {
+    display: inline-flex;
+}
+
+.list-item-post-date {
+    padding-right: 20px;
+    margin: 0;
+}
+
+.list-item-post-link {
+    margin: 0;
+}
+
+.simple-link {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #0000EE;
+}
+
+.footer-links {
+    display: inline-flex
+}
+
+.footer-links>p {
+    padding-right: 15px;
+}
+
+.footer-links>p>a {
+    text-decoration: none;
+}
+
+.reading-list>li>p {
+    margin: 0;
+    padding: 0;
+}
